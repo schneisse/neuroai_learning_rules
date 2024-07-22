@@ -1,6 +1,6 @@
 # Investigating biologically plausible learning rules for solving credit assignment problem
 
-Our project is about the credit assignment problem. We are particularly interested in biologically plausible learning rules because backpropagation seems not a very realistic rule for the brain due to the weight transfer problem. Ultimately we want to know/show if learning rules like weight perturbation, feedback alignment and predictive coding would also be appropriate rules for learning. And how these rules perform in more complicated scenarios. We want to investigate some properties of these algorithms and to do so we need to answer the following questions.
+Our project devoted to the credit assignment problem. We are particularly interested in biologically plausible learning rules because backpropagation seems not a very realistic rule for the brain due to the weight transfer problem. Ultimately we want to know/show if learning rules like weight perturbation, feedback alignment and predictive coding would also be appropriate rules for learning. And how these rules perform in more complicated scenarios. We want to investigate some properties of these algorithms and to do so we need to answer the following questions.
 1. Do some algorithms perform better than others? And how do they perform compared with backprop?
 2. What can we learn about the learning rules from the metrics measured during their training?
 3. Are some algorithms better suited for complex tasks (online learning, non-stationary data)? If so, why?
